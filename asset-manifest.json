@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smart-pdf/static/css/main.498426c2.chunk.css",
+    "main.js": "/smart-pdf/static/js/main.cf85c3eb.chunk.js",
+    "main.js.map": "/smart-pdf/static/js/main.cf85c3eb.chunk.js.map",
+    "runtime-main.js": "/smart-pdf/static/js/runtime-main.a821ad21.js",
+    "runtime-main.js.map": "/smart-pdf/static/js/runtime-main.a821ad21.js.map",
+    "static/js/2.daba6568.chunk.js": "/smart-pdf/static/js/2.daba6568.chunk.js",
+    "static/js/2.daba6568.chunk.js.map": "/smart-pdf/static/js/2.daba6568.chunk.js.map",
+    "index.html": "/smart-pdf/index.html",
+    "static/css/main.498426c2.chunk.css.map": "/smart-pdf/static/css/main.498426c2.chunk.css.map",
+    "static/js/2.daba6568.chunk.js.LICENSE.txt": "/smart-pdf/static/js/2.daba6568.chunk.js.LICENSE.txt",
+    "static/media/blank_page.231f45d2.jfif": "/smart-pdf/static/media/blank_page.231f45d2.jfif",
+    "static/media/lined_pages.89fa7386.jpg": "/smart-pdf/static/media/lined_pages.89fa7386.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a821ad21.js",
+    "static/js/2.daba6568.chunk.js",
+    "static/css/main.498426c2.chunk.css",
+    "static/js/main.cf85c3eb.chunk.js"
+  ]
+}
