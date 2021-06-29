@@ -25,7 +25,7 @@ export class ComponentToPrint extends React.PureComponent {
             <div style={{ position: 'relative' }} >
                 <p style={{position: 'absolute', zIndex: '10', fontSize: `${2+this.props.fontsize}px`, color: 'transparent',textShadow:`0 0 1.9px ${this.props.fontcolor}`,right:'30%',top:'5%', fontWeight: `${this.props.fontweight}`,  fontFamily: `${this.props.fontstyle}`}}> {this.props.rollno} </p>
                 <p style={{position: 'absolute', zIndex: '10', fontSize: `${2+this.props.fontsize}px`, color: 'transparent',textShadow:`0 0 1.9px ${this.props.fontcolor}`,right:'30%',top:'7%', fontWeight: `${this.props.fontweight}`,  fontFamily: `${this.props.fontstyle}`}}> {this.props.studentname} </p>
-                <p style={{ position: 'absolute', zIndex: '10', fontSize: `${2+this.props.fontsize}px`, color: 'transparent',textShadow:`0 0 1.9px ${this.props.fontcolor}`, fontWeight: `${this.props.fontweight}`, paddingLeft: `${this.props.marginleft+10}px`, paddingTop: `${this.props.margintop+20}px`, lineHeight: `${35 + (this.props.fontsize/16) }px`,  fontFamily: `${this.props.fontstyle}`}} >{item}</p>
+                <p style={{ position: 'absolute', zIndex: '10', fontSize: `${2+this.props.fontsize}px`, color: 'transparent',textShadow:`0 0 1.9px ${this.props.fontcolor}`, fontWeight: `${this.props.fontweight}`, paddingLeft: `${this.props.marginleft+20}px`, paddingTop: `${this.props.margintop+20}px`, lineHeight: `${35 + (this.props.fontsize/16) }px`,  fontFamily: `${this.props.fontstyle}`}} >{item}</p>
                 <img src={linedPage} style={{ width: '100%'}} alt="" />
               </div>
               <div className="page-break" />
