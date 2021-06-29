@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smart-pdf/static/css/main.498426c2.chunk.css",
-    "main.js": "/smart-pdf/static/js/main.cf85c3eb.chunk.js",
-    "main.js.map": "/smart-pdf/static/js/main.cf85c3eb.chunk.js.map",
+    "main.js": "/smart-pdf/static/js/main.1ff156ea.chunk.js",
+    "main.js.map": "/smart-pdf/static/js/main.1ff156ea.chunk.js.map",
     "runtime-main.js": "/smart-pdf/static/js/runtime-main.a821ad21.js",
     "runtime-main.js.map": "/smart-pdf/static/js/runtime-main.a821ad21.js.map",
     "static/js/2.daba6568.chunk.js": "/smart-pdf/static/js/2.daba6568.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a821ad21.js",
     "static/js/2.daba6568.chunk.js",
     "static/css/main.498426c2.chunk.css",
-    "static/js/main.cf85c3eb.chunk.js"
+    "static/js/main.1ff156ea.chunk.js"
   ]
 }
